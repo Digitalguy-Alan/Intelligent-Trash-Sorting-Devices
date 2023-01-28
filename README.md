@@ -1,7 +1,7 @@
 # Intelligent-Trash-Sorting-Devices
 
 Designed two intelligent trash sorting devices.\
-A: based on Raspberry Pi to call Baidu API for sorting device asthe benchmark.\
+A: Utilized Raspberry Pi 4B to call Baidu API as a benchmark for sorting\
 B: Implemented self-designed Convolutional Neural Network(image classification) in Raspberry Pi 4B based on TensorFlow.
 
 
